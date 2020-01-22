@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "SIT Lancher",
+    "name": "SIT Launcher",
     "description": "Your SIT Navigator",
     "version": "1.0.0",
     "icons": {"128": "icon_128.png"},
