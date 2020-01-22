@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "SIT Lancher",
-    "description": "Easily Access SIT content",
+    "description": "Your SIT Navigator",
     "version": "1.0.0",
     "icons": {"128": "icon_128.png"},
     "browser_action": {
